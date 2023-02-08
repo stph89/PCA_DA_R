@@ -11,11 +11,11 @@
 
 ## Clustering example:
 
-!(https://user-images.githubusercontent.com/110174766/217562406-535f8513-f9e7-45b1-aaba-3516d493a677.png)
+![imagen](https://user-images.githubusercontent.com/110174766/217562406-535f8513-f9e7-45b1-aaba-3516d493a677.png)
 
 ## NMDS analysis:
 
-!(https://user-images.githubusercontent.com/110174766/217562531-6c6481b0-7861-4530-ad24-3cb11cdd7760.png)
+![imagen](https://user-images.githubusercontent.com/110174766/217562531-6c6481b0-7861-4530-ad24-3cb11cdd7760.png)
 
 
 ### Variables:
