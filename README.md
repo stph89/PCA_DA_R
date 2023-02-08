@@ -10,4 +10,4 @@
 * Vegetation cover.
 
 ### Objective:
-** To find differences between different samples with the same variables into a large datasets.** 
+**To find differences between different samples with the same variables into a large datasets.** 
