@@ -4,11 +4,18 @@
 
 **Principal Component Analysis (PCA)** and **Discriminant Analysis** in R for exploratory data analysis, data visualizations for detect the variation present in a large dataset with several enviromental variables and multiple factors. 
 
-## PCA visualization example: Captura de Pantalla 2023-02-08 a las 15.39.56![Uploading imagen.png…]()
+## PCA visualization example: 
 
-## Clustering example:![Captura de Pantalla 2023-02-08 a las 15 40 49](https://user-images.githubusercontent.com/110174766/217562406-535f8513-f9e7-45b1-aaba-3516d493a677.png)
+![imagen](https://user-images.githubusercontent.com/110174766/217562990-2fd2aacc-bb4f-4890-9f40-95cc45c77776.png)
 
-## NMDS analysis:![Captura de Pantalla 2023-02-08 a las 15 39 46](https://user-images.githubusercontent.com/110174766/217562531-6c6481b0-7861-4530-ad24-3cb11cdd7760.png)
+
+## Clustering example:
+
+!(https://user-images.githubusercontent.com/110174766/217562406-535f8513-f9e7-45b1-aaba-3516d493a677.png)
+
+## NMDS analysis:
+
+!(https://user-images.githubusercontent.com/110174766/217562531-6c6481b0-7861-4530-ad24-3cb11cdd7760.png)
 
 
 ### Variables:
